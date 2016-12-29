@@ -1,0 +1,35 @@
+<PISI>
+    <Source>
+        <Name>lastpass-cli</Name>
+        <Packager>
+            <Name>Bryan T. Meyers</Name>
+            <Email>bmeyers@datadrake.com</Email>
+        </Packager>
+        <License>GPL-2.0</License>
+        <PartOf>network.clients</PartOf>
+        <Summary xml:lang="en">CLI for Lastpass.com</Summary>
+        <Description xml:lang="en">CLI for Lastpass.com
+</Description>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+    </Source>
+    <Package>
+        <Name>lastpass-cli</Name>
+        <Summary xml:lang="en">CLI for Lastpass.com</Summary>
+        <Description xml:lang="en">CLI for Lastpass.com
+</Description>
+        <PartOf>network.clients</PartOf>
+        <Files>
+            <Path fileType="executable">/usr/bin</Path>
+            <Path fileType="data">/usr/share/bash-completion/completions/lpass</Path>
+        </Files>
+    </Package>
+    <History>
+        <Update release="1">
+            <Date>2016-12-29</Date>
+            <Version>1.0.0</Version>
+            <Comment>Packaging update</Comment>
+            <Name>Bryan T. Meyers</Name>
+            <Email>bmeyers@datadrake.com</Email>
+        </Update>
+    </History>
+</PISI>
