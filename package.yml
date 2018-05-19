@@ -1,8 +1,8 @@
 name       : lastpass-cli
-version    : 1.3.0
-release    : 6
+version    : 1.3.1
+release    : 7
 source     :
-    - https://github.com/lastpass/lastpass-cli/archive/v1.3.0.tar.gz : bbcfd673d668287e773eef44da65fbd2f292daa213a39528f31037c528dbcfe4
+    - https://github.com/lastpass/lastpass-cli/archive/v1.3.1.tar.gz : 25dc9a0c99a10ee70b5b3991d525448c25f312cc69fa0216d7ac70c4ae384b1b
 license    : GPL-2.0-or-later
 component  : network.clients
 summary    : CLI for Lastpass.com

@@ -2,8 +2,8 @@
     <Source>
         <Name>lastpass-cli</Name>
         <Packager>
-            <Name>Matt Critchlow</Name>
-            <Email>matt.critchlow@gmail.com</Email>
+            <Name>Benjamin Daines</Name>
+            <Email>ben@digitalsand.photography</Email>
         </Packager>
         <License>GPL-2.0-or-later</License>
         <PartOf>network.clients</PartOf>
@@ -25,12 +25,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="6">
-            <Date>2018-04-18</Date>
-            <Version>1.3.0</Version>
+        <Update release="7">
+            <Date>2018-05-19</Date>
+            <Version>1.3.1</Version>
             <Comment>Packaging update</Comment>
-            <Name>Matt Critchlow</Name>
-            <Email>matt.critchlow@gmail.com</Email>
+            <Name>Benjamin Daines</Name>
+            <Email>ben@digitalsand.photography</Email>
         </Update>
     </History>
 </PISI>
